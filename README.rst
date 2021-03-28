@@ -9,6 +9,11 @@ aioworkers-loki
   :target: https://pypi.org/project/aioworkers-loki
   :alt: Python versions
 
+About
+=====
+
+Integration with `grafana loki <https://grafana.com/docs/loki/latest/>`_.
+Works on `python-logging-loki <https://pypi.org/project/python-logging-loki>`_
 
 Use
 ---
