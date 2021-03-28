@@ -21,6 +21,7 @@ Use
 .. code-block:: yaml
 
     logging:
+      version: 1
       root:
         handlers: [loki]
       handlers:
